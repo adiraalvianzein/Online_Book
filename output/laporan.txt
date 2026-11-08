@@ -1,0 +1,8 @@
+=== LAPORAN RINGKASAN AUTOMATION SYSTEMS ===
+Sumber Data : Goodreads
+Total Data Buku : 20
+Data Rating Valid : 20
+Rata-rata Rating : 3.93 / 5.00
+
+=== JUMLAH BUKU PER KATEGORI ===
+Fiction : 20
